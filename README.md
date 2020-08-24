@@ -2,13 +2,13 @@
 <h3 align="center">An aspiring developer and student from Paderborn, Germany</h3>
 <br/>
 
-- 🌱 I’m currently learning **HTML, CSS and JavaScript by using a static site generator**
+- 🌱 I’m currently learning **Networking and Web Development**
 
-- 📚 I already know/use *(and partially love)* **C#, Java, Git, CI/CD, Linux, Azure**
+- 📚 I already know/use *(and partially love)* **C#, Java, Git, Docker, Linux and Azure**
 
 - ⚡ I like to **setup servers & try out new exciting stuff on my homelab**
 
-- 👨‍💻 Mirrors and older projects are available at [git.langrock.info](https://git.langrock.info/)
+- 👨‍💻 Mirrors and older projects are available at [git.langrock.info](https://git.langrock.info/lukas/)
 
 - 📝 I sometimes write blogs and guides on [langrock.info](https://langrock.info/)
 
