@@ -8,8 +8,6 @@
 
 - ⚡ I like to **setup servers & try out new exciting stuff on my homelab**
 
-- 👨‍💻 Mirrors and older projects are available at [git.langrock.info](https://git.langrock.info/lukas/)
-
 - 📝 I sometimes write blogs and guides on [langrock.info](https://langrock.info/)
 
 - 💬 Ask me about **C#, Azure, Cloudflare and Linux**
