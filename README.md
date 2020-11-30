@@ -14,7 +14,7 @@
 
 - 📫 Write me an email at **lukas.langrock@outlook.de**
 
-- 💾 Archives and mirrored binaries can be found on [archive.langrock.info](https://archive.langrock.info/) and github mirrors on [git.langrock.info](https://git.langrock.info/lukas-github)
+- 💾 Archives and mirrored binaries can be found on [files.langrock.info](https://files.langrock.info/) and github mirrors on [git.langrock.info](https://git.langrock.info/lukas-github)
 
 <br/>
 <p align="center"><a href="https://twitter.com/lukaslangrock" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lukaslangrock" height="30" width="30" /></a></p>
