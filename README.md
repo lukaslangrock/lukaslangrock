@@ -16,7 +16,7 @@
 
 - ☁️ Try my services via [dash.langrock.info](https://dash.langrock.info/)
 
-- 💾 Mirrors and other repos can be found on [git.langrock.info](https://git.langrock.info/lukas)
+- 💾 Mirrors and other repos can be found on [git.langrock.info](https://git.langrock.info/lukas) and [files.langrock.info](https://files.langrock.info/apps/)
 
 <br/>
 <p align="center"><a href="https://twitter.com/lukaslangrock" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lukaslangrock" height="30" width="30" /></a></p>
