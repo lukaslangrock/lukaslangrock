@@ -14,8 +14,6 @@
 
 - 📫 Write me an email at **lukas.langrock@outlook.de**
 
-- ☁️ Try my services via [dash.langrock.info](https://dash.langrock.info/)
-
 - 💾 Mirrors and other repos can be found on [git.langrock.info](https://git.langrock.info/lukas) and [files.langrock.info](https://files.langrock.info/apps/)
 
 <br/>
