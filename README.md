@@ -2,19 +2,17 @@
 <h3 align="center">An aspiring developer and student from Paderborn, Germany</h3>
 <br/>
 
-- 🌱 I’m currently learning **Networking and Web Development**
+- 🌱 I’m currently studying **Computer Science** at Paderborn Univerity
 
-- 📚 I already know/use *(and partially love)* **C#, Java, Git, Docker, Linux and Azure**
+- 📚 I already know/use *(and partially love)* **Linux, Docker, C#, Java, and Azure**
 
-- ⚡ I like to **setup servers & try out new exciting stuff on my homelab**
+- ⚡ I *(happily)* run **Fedora GNU/Linux** on all my systems
 
-- 📝 I sometimes write guides on [wiki.langrock.info](https://wiki.langrock.info/)
+- 📝 I sometimes write guides on [wiki.libre.moe](https://wiki.libre.moe/)
 
-- 💬 Ask me about **C#, Azure, Cloudflare and Linux**
+- 📫 Contact me via **hello@libre.moe**
 
-- 📫 Write me an email at **lukas.langrock@outlook.de**
-
-- 💾 Mirrors and other repos can be found on [git.langrock.info](https://git.langrock.info/lukas) and [files.langrock.info](https://files.langrock.info/apps/)
+- 💾 Mirrors and other repos can be found on [git.libre.moe](https://git.libre.moe/lukas) and [files.langrock.info](https://files.langrock.info/apps/)
 
 <br/>
 <p align="center"><a href="https://twitter.com/lukaslangrock" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lukaslangrock" height="30" width="30" /></a></p>
